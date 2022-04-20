@@ -63,7 +63,7 @@ footer{
     text-align: center;
     
     margin: 0px;
-    position: relative;
+    
     
 }
 
@@ -80,7 +80,7 @@ footer h2{
 
 
 /* responsive design */
-@media screen and (max-width:1240px){
+@media screen and (max-width:1300px){
     .banner img{
         position: static;
         max-width: 100%;
